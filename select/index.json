@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Setia",
+  "base_artist": "Jikustik",
+  "createdAt": "2026-03-02T07:39:23.729358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "golden hour - Shirley Setia Remix",
+      "artist": "JVKE feat. Shirley Setia",
+      "has_synced": true,
+      "path": "select/01_golden_hour_-_Shirley_Setia_Remix_JVKE_feat._Shirley_Setia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "golden hour - Shirley Setia Remix",
+      "artist": "JVKE, Shirley Setia",
+      "has_synced": true,
+      "path": "select/02_golden_hour_-_Shirley_Setia_Remix_JVKE,_Shirley_Setia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Setia",
+      "artist": "Jikustik",
+      "has_synced": true,
+      "path": "select/03_Setia_Jikustik.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Janji Setia",
+      "artist": "Tiara Andini",
+      "has_synced": true,
+      "path": "select/04_Janji_Setia_Tiara_Andini.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kuingin Setia",
+      "artist": "Armada",
+      "has_synced": true,
+      "path": "select/05_Kuingin_Setia_Armada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Setia",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/06_Setia_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Setia Jujur Dan Taqwa (SEJUTA)",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/07_Setia_Jujur_Dan_Taqwa_(SEJUTA)_Wali.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ku Ingin Setia",
+      "artist": "Armada",
+      "has_synced": true,
+      "path": "select/08_Ku_Ingin_Setia_Armada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bisa Setia",
+      "artist": "Cozy Republic",
+      "has_synced": true,
+      "path": "select/09_Bisa_Setia_Cozy_Republic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Karena Aku Setia",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/10_Karena_Aku_Setia_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aku Memilih Setia ( X Factor Indonesia )",
+      "artist": "Fatin",
+      "has_synced": true,
+      "path": "select/11_Aku_Memilih_Setia_(_X_Factor_Indonesia_)_Fatin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Setia Menanti",
+      "artist": "Rossa",
+      "has_synced": true,
+      "path": "select/12_Setia_Menanti_Rossa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Janji Setia",
+      "artist": "ADE",
+      "has_synced": true,
+      "path": "select/13_Janji_Setia_ADE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Setia Menunggumu",
+      "artist": "Fabio Asher",
+      "has_synced": true,
+      "path": "select/14_Setia_Menunggumu_Fabio_Asher.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Setia",
+      "artist": "Marcell",
+      "has_synced": true,
+      "path": "select/15_Setia_Marcell.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Setia Menunggu",
+      "artist": "Afgan",
+      "has_synced": true,
+      "path": "select/16_Setia_Menunggu_Afgan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Maafkan Aku Tak Setia (MATS)",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/17_Maafkan_Aku_Tak_Setia_(MATS)_Wali.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Janji Setia (Official Music Video)",
+      "artist": "Tiara Andini",
+      "has_synced": true,
+      "path": "select/18_Janji_Setia_(Official_Music_Video)_Tiara_Andini.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Setia",
+      "artist": "Jikustik",
+      "has_synced": false,
+      "path": "select/pl_01_Setia_Jikustik.txt"
+    }
+  ]
+}
